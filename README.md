@@ -2,7 +2,7 @@
 
 [Dishant Rathi](https://www.dishantrathi.tk)  [@techiedishant](https://www.twitter.com/techiedishant) 
 
-Get Live Exchange Values of Crypto-Currencies ie. Bitcoin (BTC), Bitcoin Cash (BCH), Litecoin (LTC), Ethereum (ETH), Dash (DASH), Ripple (XRP), Monero (XMR) and many more, via an API provided by [Bitcoin Average]http://bitcoinaverage.com) with respect to your desired Currencies ie. INR(Indian National Rupee), USD(US Dollar), CAD(Canadian Dollar), and many more.
+Get Live Exchange Values of Crypto-Currencies ie. Bitcoin (BTC), Bitcoin Cash (BCH), Litecoin (LTC), Ethereum (ETH), Dash (DASH), Ripple (XRP), Monero (XMR) and many more, via an API provided by [Bitcoin Average](http://bitcoinaverage.com) with respect to your desired Currencies ie. INR(Indian National Rupee), USD(US Dollar), CAD(Canadian Dollar), and many more.
 More Simple than you think.
 
 ## Getting Started
