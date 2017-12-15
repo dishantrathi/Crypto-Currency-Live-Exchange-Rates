@@ -1,4 +1,4 @@
-# CrytoLivePrice
+# Crypto-Currency Live Exchange Rates
 
 [Dishant Rathi](https://www.dishantrathi.tk)  [@techiedishant](https://www.twitter.com/techiedishant) 
 
