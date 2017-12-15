@@ -17,6 +17,9 @@ git clone https://github.com/dishantrathi/Crypto-Currency-Live-Rates
 
 * [Python v3.6](https://www.python.org/) - As Base
 * [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/) - For HTTP Requests to check connectivity
+```
+pip install -r requirements.txt
+```
 * [SICCiPy](https://github.com/dishantrathi/SICCiPy) (PreInstalled)
 * No Installation Required Just Clone and Run
 
